@@ -584,6 +584,13 @@ body {
         padding: 10px;
     }
 
+    /* Make poster smaller on mobile */
+    #show_details {
+        max-width: 220px;
+        margin: 0 auto 15px auto;
+        /* Center it */
+    }
+
     .img-con img {
         width: 100%;
         height: auto;
